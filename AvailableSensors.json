@@ -1,0 +1,30 @@
+{
+  "WirelessTemperatureSensor": [
+    "Temperature"
+  ],
+  "WirelessAdaptiveHead": [    "pH",
+    "Voltage",
+    "ISEAmmonium",
+    "ISECalcium",
+    "ISEChloride",
+    "ISECO2",
+    "ISENitrate",
+    "ISENitrite",
+    "ISEPotassium",
+    "ISESodium",
+    "ISEFluoride",
+    "ISELead",
+    "ISEOther"
+  ],
+  "WirelessConductivity": [
+    "Conductivity",
+    "Temperature",
+    "TotalDissolvedSolids"
+  ],
+  "WirelessODOSensor": [
+    "Temperature",
+    "DO2Saturation",
+    "DO2Concentration",
+    "O2GasConcentration"
+  ]
+}

@@ -1,0 +1,9 @@
+LightIntensity
+MagneticFieldStrength
+Temperature
+DO2Concentration
+pH
+Conductivity10XProbe
+ISENitrate
+ISEAmmonium
+Conductivity
